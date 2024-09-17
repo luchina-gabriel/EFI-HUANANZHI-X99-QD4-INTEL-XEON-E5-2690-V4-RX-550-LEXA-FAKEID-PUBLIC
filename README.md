@@ -1,5 +1,7 @@
 # Hackintosh, Huananzhi X99 QD4, Intel Xeon E5 2690 V4, AMD Radeon RX 550 4Gb Lexa (FakeID Needded)
 
+![macOS Overview](https://github.com/user-attachments/assets/6adf86e3-ebb7-41e2-a21e-b85a47fb82bc)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sonoma (14.7)
